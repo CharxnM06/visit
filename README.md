@@ -1,3 +1,3 @@
 # visit
 this is my first Git Repository.
-Authour - Charan M
+Author - Charan M
